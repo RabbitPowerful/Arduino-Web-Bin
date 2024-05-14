@@ -1,0 +1,12 @@
+body {
+    background-image: url('/static/images/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bin{
+    height:400px;
+    width:310px;
+    position: relative;
+    left: 507px;
+    top:-20px;
+}
