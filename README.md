@@ -1,10 +1,15 @@
 Smart Waste Segregator
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 This project demonstrates a Smart Waste Segregator system built using Python, Flask, and Flask-SocketIO. The system reads data from a serial port connected to sensors measuring waste levels and sends this data to a web interface in real-time. The web interface dynamically updates based on the waste levels, allowing users to monitor and manage waste disposal efficiently.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Features:
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 1.Real-time Monitoring: Displays waste levels in real-time on a web interface.
 
@@ -17,6 +22,9 @@ Features:
 
 
 Technologies Used:
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 1.Python: Backend logic and serial port communication.
 
@@ -31,6 +39,9 @@ Technologies Used:
 
 
 Setup Instructions:
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 1.Clone the repository to your local machine.
 
